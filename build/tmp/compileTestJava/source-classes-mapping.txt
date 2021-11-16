@@ -1,0 +1,4 @@
+co/com/choucair/automation/retomovil/runners/RunnerTags.java
+ co.com.choucair.automation.retomovil.runners.RunnerTags
+co/com/choucair/automation/retomovil/stepdefinitions/AutenticationStepDefinitions.java
+ co.com.choucair.automation.retomovil.stepdefinitions.AutenticationStepDefinitions
